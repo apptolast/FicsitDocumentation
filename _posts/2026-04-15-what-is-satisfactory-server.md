@@ -73,15 +73,15 @@ factory.
 ## What You Need Before Starting
 
 1. **A VPS or machine** meeting the hardware requirements above
-   → See [Choosing a VPS for Your Satisfactory Server](/posts/vps-requirements/)
+   → See [Choosing a VPS for Your Satisfactory Server]({% post_url 2026-04-15-vps-requirements %})
 
 2. **Ubuntu 22.04 or 24.04 LTS** installed on your server
 
 3. **Docker** installed
-   → See [Installing Docker on Ubuntu](/posts/install-docker/)
+   → See [Installing Docker on Ubuntu]({% post_url 2026-04-15-install-docker %})
 
 4. **Ports opened in your firewall**: 7777 TCP+UDP, 8888 TCP, 8080 TCP, 8081 TCP
-   → See [Firewall & Port Configuration](/posts/server-firewall/)
+   → See [Firewall & Port Configuration]({% post_url 2026-04-15-server-firewall %})
 
 5. **A Satisfactory game license** (the game itself — not required for the server binary,
    but needed to connect as a client and configure the server)
@@ -99,4 +99,4 @@ factory.
 
 ## Next Step
 
-[Choose a VPS →](/posts/vps-requirements/)
+[Choose a VPS →]({% post_url 2026-04-15-vps-requirements %})

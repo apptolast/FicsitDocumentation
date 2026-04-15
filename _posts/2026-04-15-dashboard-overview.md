@@ -93,11 +93,11 @@ This means:
 
 Each panel has a dedicated guide:
 
-- [Power Grid Panel](/posts/power-grid-panel/) — MW production, consumption, batteries, fuse alerts
-- [Production & Consumption Panel](/posts/production-panel/) — item rates and factory balance
-- [Players & Sessions Panel](/posts/players-sessions/) — online players, health, position
-- [Trains & Drone Stations Panel](/posts/trains-drones/) — logistics monitoring
-- [Factory Buildings Panel](/posts/factory-buildings/) — per-machine efficiency and overclocking
+- [Power Grid Panel]({% post_url 2026-04-15-power-grid-panel %}) — MW production, consumption, batteries, fuse alerts
+- [Production & Consumption Panel]({% post_url 2026-04-15-production-panel %}) — item rates and factory balance
+- [Players & Sessions Panel]({% post_url 2026-04-15-players-sessions %}) — online players, health, position
+- [Trains & Drone Stations Panel]({% post_url 2026-04-15-trains-drones %}) — logistics monitoring
+- [Factory Buildings Panel]({% post_url 2026-04-15-factory-buildings %}) — per-machine efficiency and overclocking
 
 ---
 

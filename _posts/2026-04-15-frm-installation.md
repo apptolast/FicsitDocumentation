@@ -51,8 +51,8 @@ depending on the endpoint) and stores the data in a time-series database.
 
 ## Prerequisites
 
-- Your server is running → see [Running with Docker](/posts/run-satisfactory-docker/)
-- Port 8080 and 8081 are open → see [Firewall Configuration](/posts/server-firewall/)
+- Your server is running → see [Running with Docker]({% post_url 2026-04-15-run-satisfactory-docker %})
+- Port 8080 and 8081 are open → see [Firewall Configuration]({% post_url 2026-04-15-server-firewall %})
 - You can connect to the server from the game client
 
 ---
@@ -179,4 +179,4 @@ FICSIT.monitor supports both access methods and will use whichever is available.
 
 ## Next Step
 
-[Generating Your API Token →](/posts/api-token/)
+[Generating Your API Token →]({% post_url 2026-04-15-api-token %})

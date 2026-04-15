@@ -186,6 +186,6 @@ HTTP status: `401 Unauthorized`
 
 ## See Also
 
-- [REST API Overview](/posts/api-overview/) — base URL and general usage
-- [Servers API](/posts/api-servers/) — manage your servers
-- [Metrics API](/posts/api-metrics/) — query server metrics
+- [REST API Overview]({% post_url 2026-04-15-api-overview %}) — base URL and general usage
+- [Servers API]({% post_url 2026-04-15-api-servers %}) — manage your servers
+- [Metrics API]({% post_url 2026-04-15-api-metrics %}) — query server metrics

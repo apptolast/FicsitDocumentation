@@ -175,4 +175,4 @@ sudo systemctl start docker
 
 ## Next Step
 
-[Running Satisfactory Server with Docker →](/posts/run-satisfactory-docker/)
+[Running Satisfactory Server with Docker →]({% post_url 2026-04-15-run-satisfactory-docker %})

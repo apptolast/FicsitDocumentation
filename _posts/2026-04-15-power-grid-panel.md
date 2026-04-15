@@ -13,7 +13,7 @@ The Power Grid panel displays real-time data from every power circuit in your fa
 It uses the FRM `getPower` endpoint, polled every **15 seconds**, and stored as a
 time-series for historical charts.
 
-> This panel requires the FRM mod. See [Installing FRM](/posts/frm-installation/).
+> This panel requires the FRM mod. See [Installing FRM]({% post_url 2026-04-15-frm-installation %}).
 {: .prompt-info }
 
 ---
@@ -125,5 +125,5 @@ curl https://satisfactory-dashboard.pablohgdev.com/api/v1/servers/{SERVER_ID}/po
   -H "Authorization: Bearer YOUR_TOKEN"
 ```
 
-Response fields match the table above. See [Metrics API Reference](/posts/api-metrics/)
+Response fields match the table above. See [Metrics API Reference]({% post_url 2026-04-15-api-metrics %})
 for full documentation.

@@ -13,7 +13,7 @@ The Production & Consumption panel shows per-item production and consumption rat
 across your entire factory, sourced from the FRM `getProdStats` endpoint. It updates
 every **30 seconds** and helps identify production bottlenecks and resource imbalances.
 
-> This panel requires the FRM mod. See [Installing FRM](/posts/frm-installation/).
+> This panel requires the FRM mod. See [Installing FRM]({% post_url 2026-04-15-frm-installation %}).
 {: .prompt-info }
 
 ---
@@ -118,4 +118,4 @@ curl https://satisfactory-dashboard.pablohgdev.com/api/v1/servers/{SERVER_ID}/pr
 ```
 
 Returns an array of `ProductionMetric` objects with the fields described above.
-See [Metrics API Reference](/posts/api-metrics/).
+See [Metrics API Reference]({% post_url 2026-04-15-api-metrics %}).

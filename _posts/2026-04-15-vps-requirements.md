@@ -144,10 +144,10 @@ Kubernetes cluster** on a Hetzner dedicated server with:
 - 500 GB NVMe SSD
 
 The Satisfactory game server pod is allocated 2–4 CPU cores and 8–16 GB RAM
-(see the [Kubernetes Deployment guide](/posts/kubernetes-deployment/) for full manifest details).
+(see the [Kubernetes Deployment guide]({% post_url 2026-04-15-kubernetes-deployment %}) for full manifest details).
 
 ---
 
 ## Next Step
 
-[Install Docker on Ubuntu →](/posts/install-docker/)
+[Install Docker on Ubuntu →]({% post_url 2026-04-15-install-docker %})

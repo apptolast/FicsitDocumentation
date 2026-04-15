@@ -183,6 +183,6 @@ responses instead of HTML redirects.
 
 ## See Also
 
-- [API Authentication](/posts/api-authentication/) — PAT creation and usage
-- [Servers API](/posts/api-servers/) — server management endpoints
-- [Metrics API](/posts/api-metrics/) — all metric endpoints with field definitions
+- [API Authentication]({% post_url 2026-04-15-api-authentication %}) — PAT creation and usage
+- [Servers API]({% post_url 2026-04-15-api-servers %}) — server management endpoints
+- [Metrics API]({% post_url 2026-04-15-api-metrics %}) — all metric endpoints with field definitions

@@ -19,8 +19,8 @@ automatically.
 
 ## Prerequisites
 
-- Docker installed → see [Installing Docker on Ubuntu](/posts/install-docker/)
-- Ports opened in your firewall → see [Firewall & Port Configuration](/posts/server-firewall/)
+- Docker installed → see [Installing Docker on Ubuntu]({% post_url 2026-04-15-install-docker %})
+- Ports opened in your firewall → see [Firewall & Port Configuration]({% post_url 2026-04-15-server-firewall %})
 - At least 20 GB free disk space (75 GB recommended)
 
 ---
@@ -223,4 +223,4 @@ maintenance windows).
 
 ## Next Step
 
-[Firewall & Port Configuration →](/posts/server-firewall/)
+[Firewall & Port Configuration →]({% post_url 2026-04-15-server-firewall %})

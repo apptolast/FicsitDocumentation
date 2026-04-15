@@ -126,7 +126,7 @@ curl http://YOUR_PUBLIC_IP:8080/getPower
 **Symptom:** `curl http://YOUR_IP:8080/getPower` returns `Connection refused`
 
 **Fix:**
-1. Install FRM via Satisfactory Mod Manager (see [Installing FRM](/posts/frm-installation/))
+1. Install FRM via Satisfactory Mod Manager (see [Installing FRM]({% post_url 2026-04-15-frm-installation %}))
 2. Restart the server container: `docker restart satisfactory-server`
 3. Wait for the server to come back online and retry
 

@@ -13,7 +13,7 @@ The Factory Buildings panel provides per-machine data across your entire factory
 sourced from FRM `getFactory`. It updates every **60 seconds** — the longest interval
 of all panels because it involves fetching data for potentially thousands of machines.
 
-> This panel requires the FRM mod. See [Installing FRM](/posts/frm-installation/).
+> This panel requires the FRM mod. See [Installing FRM]({% post_url 2026-04-15-frm-installation %}).
 {: .prompt-info }
 
 ---
@@ -141,4 +141,4 @@ Example building entry:
 }
 ```
 
-See [Metrics API Reference](/posts/api-metrics/).
+See [Metrics API Reference]({% post_url 2026-04-15-api-metrics %}).

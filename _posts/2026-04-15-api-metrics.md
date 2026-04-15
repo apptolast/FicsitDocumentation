@@ -86,7 +86,7 @@ curl https://satisfactory-dashboard.pablohgdev.com/api/v1/servers/{id}/players \
 ]
 ```
 
-See [Players & Sessions Panel](/posts/players-sessions/) for field descriptions.
+See [Players & Sessions Panel]({% post_url 2026-04-15-players-sessions %}) for field descriptions.
 
 ---
 
@@ -120,7 +120,7 @@ curl https://satisfactory-dashboard.pablohgdev.com/api/v1/servers/{id}/power/lat
 ]
 ```
 
-See [Power Grid Panel](/posts/power-grid-panel/) for field descriptions.
+See [Power Grid Panel]({% post_url 2026-04-15-power-grid-panel %}) for field descriptions.
 
 ---
 
@@ -154,7 +154,7 @@ curl https://satisfactory-dashboard.pablohgdev.com/api/v1/servers/{id}/productio
 ]
 ```
 
-See [Production Panel](/posts/production-panel/) for field descriptions.
+See [Production Panel]({% post_url 2026-04-15-production-panel %}) for field descriptions.
 
 ---
 
@@ -191,7 +191,7 @@ curl https://satisfactory-dashboard.pablohgdev.com/api/v1/servers/{id}/trains \
 ]
 ```
 
-See [Trains & Drone Stations Panel](/posts/trains-drones/).
+See [Trains & Drone Stations Panel]({% post_url 2026-04-15-trains-drones %}).
 
 ---
 
@@ -225,7 +225,7 @@ curl https://satisfactory-dashboard.pablohgdev.com/api/v1/servers/{id}/drones \
 ]
 ```
 
-See [Trains & Drone Stations Panel](/posts/trains-drones/).
+See [Trains & Drone Stations Panel]({% post_url 2026-04-15-trains-drones %}).
 
 ---
 

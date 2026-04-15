@@ -13,7 +13,7 @@ The Trains & Drone Stations panel monitors your logistics network. Train data is
 sourced from FRM `getTrains` and drone station data from FRM `getDroneStation`,
 both polled every **30 seconds**.
 
-> This panel requires the FRM mod. See [Installing FRM](/posts/frm-installation/).
+> This panel requires the FRM mod. See [Installing FRM]({% post_url 2026-04-15-frm-installation %}).
 {: .prompt-info }
 
 ---
@@ -155,4 +155,4 @@ Example response item:
 }
 ```
 
-See [Metrics API Reference](/posts/api-metrics/).
+See [Metrics API Reference]({% post_url 2026-04-15-api-metrics %}).

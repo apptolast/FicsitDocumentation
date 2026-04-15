@@ -26,7 +26,7 @@ providers.
 | **8081** | TCP | FRM WebSocket | FICSIT.monitor real-time metrics |
 
 > **Ports 8080 and 8081 require the FicsitRemoteMonitoring (FRM) mod to be installed.**
-> Without FRM, these ports are not used. See [Installing FRM](/posts/frm-installation/).
+> Without FRM, these ports are not used. See [Installing FRM]({% post_url 2026-04-15-frm-installation %}).
 {: .prompt-info }
 
 ---
@@ -166,14 +166,14 @@ ss -tulnp | grep -E '7777|8888|8080|8081'
 (`docker ps` should show `0.0.0.0:7777->7777/tcp`).
 
 **Port 8080 not reachable** → FRM mod may not be installed or not started. See
-[Installing FRM](/posts/frm-installation/).
+[Installing FRM]({% post_url 2026-04-15-frm-installation %}).
 
 **Game client connects but FICSIT.monitor shows 502** → Double-check that port 8080 is
 accessible from FICSIT.monitor's servers (external, not just from localhost). See
-[Diagnosing Connection Issues](/posts/connection-errors/).
+[Diagnosing Connection Issues]({% post_url 2026-04-15-connection-errors %}).
 
 ---
 
 ## Next Step
 
-[First Launch & World Setup →](/posts/server-first-launch/)
+[First Launch & World Setup →]({% post_url 2026-04-15-server-first-launch %})

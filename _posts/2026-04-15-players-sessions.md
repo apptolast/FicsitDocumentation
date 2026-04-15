@@ -123,4 +123,4 @@ Returns an array of `Player` objects with these fields:
 ]
 ```
 
-See [Metrics API Reference](/posts/api-metrics/).
+See [Metrics API Reference]({% post_url 2026-04-15-api-metrics %}).

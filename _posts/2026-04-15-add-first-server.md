@@ -62,7 +62,7 @@ The port for FRM's WebSocket connection.
 
 ### Admin Password
 
-The admin password you set on your Satisfactory server during [First Launch](/posts/server-first-launch/).
+The admin password you set on your Satisfactory server during [First Launch]({% post_url 2026-04-15-server-first-launch %}).
 
 - FICSIT.monitor uses this to call `PasswordLogin` on your server
 - The password is stored encrypted and never exposed via the API
@@ -136,10 +136,10 @@ The number of servers you can add depends on your subscription plan:
 | Team | 15 |
 | Enterprise | Unlimited |
 
-See [Plans & Pricing](/posts/pricing-plans/) for details.
+See [Plans & Pricing]({% post_url 2026-04-15-pricing-plans %}) for details.
 
 ---
 
 ## Next Step
 
-[Dashboard Overview →](/posts/dashboard-overview/)
+[Dashboard Overview →]({% post_url 2026-04-15-dashboard-overview %})

@@ -139,11 +139,11 @@ After completing this guide, you have:
 - ✅ An admin password set
 
 You now need to:
-- Install the FRM mod → see [Installing FicsitRemoteMonitoring](/posts/frm-installation/)
-- Connect FICSIT.monitor → see [Quick Start Guide](/posts/quick-start/)
+- Install the FRM mod → see [Installing FicsitRemoteMonitoring]({% post_url 2026-04-15-frm-installation %})
+- Connect FICSIT.monitor → see [Quick Start Guide]({% post_url 2026-04-15-quick-start %})
 
 ---
 
 ## Next Step
 
-[Installing FicsitRemoteMonitoring (FRM) →](/posts/frm-installation/)
+[Installing FicsitRemoteMonitoring (FRM) →]({% post_url 2026-04-15-frm-installation %})

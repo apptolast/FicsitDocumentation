@@ -50,7 +50,7 @@ docker compose up -d
 ## API-Configurable Settings
 
 These can be changed at runtime via the vanilla HTTPS API without restarting the server.
-Get an authentication token first (see [Generating Your API Token](/posts/api-token/)).
+Get an authentication token first (see [Generating Your API Token]({% post_url 2026-04-15-api-token %})).
 
 ### Check Server State
 
@@ -165,4 +165,4 @@ cp -r /home/satisfactory/data/saves/ /home/satisfactory/backups/$(date +%Y%m%d_%
 
 ## Next Step
 
-[Installing FicsitRemoteMonitoring (FRM) →](/posts/frm-installation/)
+[Installing FicsitRemoteMonitoring (FRM) →]({% post_url 2026-04-15-frm-installation %})

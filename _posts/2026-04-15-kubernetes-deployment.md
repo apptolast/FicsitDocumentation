@@ -14,7 +14,7 @@ It deploys two namespaces: `satisfactory` for the game server, and
 `satisfactory-dashboard` for the monitoring application stack.
 
 This is an **advanced guide** targeting teams with Kubernetes experience. For a simpler
-setup, use the [Docker deployment guide](/posts/run-satisfactory-docker/).
+setup, use the [Docker deployment guide]({% post_url 2026-04-15-run-satisfactory-docker %}).
 
 ---
 
@@ -298,5 +298,5 @@ This means deployments update automatically without manual intervention.
 
 ## See Also
 
-- [Environment Variables Reference](/posts/environment-variables/) — configure the Laravel app
-- [Running with Docker](/posts/run-satisfactory-docker/) — simpler Docker-based setup
+- [Environment Variables Reference]({% post_url 2026-04-15-environment-variables %}) — configure the Laravel app
+- [Running with Docker]({% post_url 2026-04-15-run-satisfactory-docker %}) — simpler Docker-based setup

@@ -116,10 +116,10 @@ To connect your server to FICSIT.monitor, you need:
 | Team | 49€/mo | 15 | 90 days |
 | Enterprise | Custom | Unlimited | Custom |
 
-See [Plans & Pricing](/posts/pricing-plans/) for the full feature comparison.
+See [Plans & Pricing]({% post_url 2026-04-15-pricing-plans %}) for the full feature comparison.
 
 ---
 
 ## Next Step
 
-[Quick Start: Monitor Your Server in 10 Minutes →](/posts/quick-start/)
+[Quick Start: Monitor Your Server in 10 Minutes →]({% post_url 2026-04-15-quick-start %})

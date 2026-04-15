@@ -18,13 +18,13 @@ This guide gets you from zero to a live FICSIT.monitor dashboard in approximatel
 
 Before starting, verify all of these are true:
 
-- [ ] Satisfactory dedicated server is running → [Running with Docker](/posts/run-satisfactory-docker/)
+- [ ] Satisfactory dedicated server is running → [Running with Docker]({% post_url 2026-04-15-run-satisfactory-docker %})
 - [ ] FRM mod is installed and responding → test: `curl http://YOUR_IP:8080/getPower`
-- [ ] Ports 7777 (TCP+UDP), 8888 (TCP), 8080 (TCP), 8081 (TCP) are open → [Firewall Guide](/posts/server-firewall/)
-- [ ] Admin password is set on the server → [First Launch Guide](/posts/server-first-launch/)
+- [ ] Ports 7777 (TCP+UDP), 8888 (TCP), 8080 (TCP), 8081 (TCP) are open → [Firewall Guide]({% post_url 2026-04-15-server-firewall %})
+- [ ] Admin password is set on the server → [First Launch Guide]({% post_url 2026-04-15-server-first-launch %})
 
 > If `curl http://YOUR_IP:8080/getPower` returns `Connection refused`, the FRM mod
-> is not installed or port 8080 is blocked. See [Installing FRM](/posts/frm-installation/).
+> is not installed or port 8080 is blocked. See [Installing FRM]({% post_url 2026-04-15-frm-installation %}).
 {: .prompt-danger }
 
 ---
@@ -97,9 +97,9 @@ The dashboard updates automatically every 10–60 seconds depending on the panel
 
 ## What's Next
 
-- [Dashboard Overview](/posts/dashboard-overview/) — understand each panel
-- [Power Grid Panel](/posts/power-grid-panel/) — power production and fuse alerts
-- [Plans & Pricing](/posts/pricing-plans/) — upgrade for more servers and longer retention
+- [Dashboard Overview]({% post_url 2026-04-15-dashboard-overview %}) — understand each panel
+- [Power Grid Panel]({% post_url 2026-04-15-power-grid-panel %}) — power production and fuse alerts
+- [Plans & Pricing]({% post_url 2026-04-15-pricing-plans %}) — upgrade for more servers and longer retention
 
 ---
 
