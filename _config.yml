@@ -26,8 +26,6 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://apptolast.github.io"
 
-baseurl: "/FicsitDocumentation"
-
 github:
   username: PabloHurtadoGonzalo86
 
@@ -147,9 +145,17 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/FicsitDocumentation"
 
 # ------------ The following options are not recommended to be modified ------------------
+
+plugins:
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-include-cache
 
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
