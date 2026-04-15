@@ -50,7 +50,7 @@ jobs:
           bundle exec htmlproofer "_site${{ steps.pages.outputs.base_path }}" \
             --disable-external \
             --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/" \
-            --ignore-files "/.\/404.html/,/.\/assets\/img\/favicons\/.*/" \
+            --ignore-files "/.\/404.html/" \
             --allow-hash-href \
             --swap-urls "^${{ steps.pages.outputs.base_path }}:"
 
